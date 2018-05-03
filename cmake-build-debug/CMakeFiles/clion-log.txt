@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -std=c++14 -G "CodeBlocks - Unix Makefiles" /Users/tina/Desktop/GitHub/Cpp/Pool
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/tina/Desktop/GitHub/Cpp/Pool/cmake-build-debug
